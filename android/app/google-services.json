@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007902753756",
+    "project_id": "patients-management-app",
+    "storage_bucket": "patients-management-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007902753756:android:5c021bf85ceeb4c1bac519",
+        "android_client_info": {
+          "package_name": "com.healthclinic.patient_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxXLvaABNhjD8dpmkon1iTMi0wh2I3n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
